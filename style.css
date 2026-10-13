@@ -211,7 +211,7 @@ header {
     min-width: 0;
     background: white;
     border: 1px solid #e5e2df;
-    border-radius: 8px;
+    border-radius: 5px;
     padding: 35px;
     transition: transform 0.3s, box-shadow 0.3s;
 }
@@ -250,7 +250,6 @@ input, textarea {
     border-radius: 6px;
     font: inherit;
 }
-
 input:focus, textarea:focus {
     outline: 2px solid #e69b55;
     border-color: transparent;
